@@ -35,6 +35,6 @@ Extensión hacia pipelines de ciberseguridad (escaneo de red, análisis de vulne
 
 Visualización de resultados en paneles web (Flask + Chart.js).
 
-Autor
+Autor Rodrigo Moguel Mendoza
 
 Proyecto creado como ejemplo de pipeline básica en Python para aprendizaje y documentación modular.
