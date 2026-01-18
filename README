@@ -1,0 +1,40 @@
+DataStream Basic
+
+Descripción
+
+DataStream Basic es una pipeline sencilla escrita en Python que demuestra cómo encadenar etapas de procesamiento de datos de manera modular. El proyecto sirve como introducción al concepto de pipelines y cómo se pueden aplicar en automatización, ciberseguridad y análisis de datos.
+
+Funcionalidades
+
+Carga de datos: Simula la entrada de información (usuarios con nombre, edad y correo).
+
+Transformación de datos: Limpia y normaliza la información (elimina espacios, convierte edades a enteros, estandariza correos).
+
+Salida de resultados: Muestra los datos procesados en consola.
+
+Estructura del código
+
+# pipeline_basica()
+1. cargar_datos()        # Entrada
+2. transformar_datos()   # Transformación
+3. mostrar_resultados()  # Salida
+
+Ejecución
+
+Clonar o descargar el proyecto.
+
+Ejecutar el archivo principal:
+
+python datastream_basic.py
+
+Aplicaciones futuras
+
+Integración con bases de datos.
+
+Extensión hacia pipelines de ciberseguridad (escaneo de red, análisis de vulnerabilidades, OSINT).
+
+Visualización de resultados en paneles web (Flask + Chart.js).
+
+Autor
+
+Proyecto creado como ejemplo de pipeline básica en Python para aprendizaje y documentación modular.
